@@ -1,0 +1,5 @@
+E:\PROGRAMMING\C#\Lexikon\Lectures\StoreManagement\SalesService\obj\Debug\netcoreapp3.1\SalesService.csproj.AssemblyReference.cache
+E:\PROGRAMMING\C#\Lexikon\Lectures\StoreManagement\SalesService\obj\Debug\netcoreapp3.1\SalesService.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMMING\C#\Lexikon\Lectures\StoreManagement\SalesService\obj\Debug\netcoreapp3.1\SalesService.AssemblyInfoInputs.cache
+E:\PROGRAMMING\C#\Lexikon\Lectures\StoreManagement\SalesService\obj\Debug\netcoreapp3.1\SalesService.AssemblyInfo.cs
+E:\PROGRAMMING\C#\Lexikon\Lectures\StoreManagement\SalesService\obj\Debug\netcoreapp3.1\SalesService.csproj.CoreCompileInputs.cache
